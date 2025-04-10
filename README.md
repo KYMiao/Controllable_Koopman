@@ -12,7 +12,7 @@ with controllability-aware learning and structure.
 - Controllability-aware structure and loss, Gramian analysis
 
 ## Project Structure
-<pre><code>```text
+<pre><code>
 Controllable_Koopman/
 ├── configs/              # YAML experiment configs
 ├── dynamics/             # Continuous-time true system dynamics
@@ -22,7 +22,7 @@ Controllable_Koopman/
 ├── training/             # Training & evaluation
 ├── experiments/          # Entry scripts for train/test/control
 └── main.py               # Optional main CLI
-```</code></pre>
+</code></pre>
 
 ## Example Commands
 
