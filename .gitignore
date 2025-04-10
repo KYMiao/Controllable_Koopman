@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environment
+env/
+.venv/
+*.egg-info/
+
+# Logs / checkpoints
+logs/
+checkpoints/
+*.pt
+*.pth
+*.npz
+
+# IDE / OS
+.vscode/
+.DS_Store
